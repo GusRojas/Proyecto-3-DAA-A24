@@ -1,0 +1,31 @@
+graph {
+  6 -- 3 [label="nodo_3 (1)"];
+  6 -- 1 [label="nodo_1 (1)"];
+  3 -- 8 [label="nodo_8 (52)"];
+  12 -- 9 [label="nodo_9 (1)"];
+  3 -- 18 [label="nodo_18 (67)"];
+  6 -- 19 [label="nodo_19 (38)"];
+  3 -- 0 [label="nodo_0 (1)"];
+  21 -- 7 [label="nodo_7 (1)"];
+  1 -- 25 [label="nodo_25 (35)"];
+  1 -- 27 [label="nodo_27 (84)"];
+  24 -- 17 [label="nodo_17 (1)"];
+  0 -- 2 [label="nodo_2 (17)"];
+  0 -- 4 [label="nodo_4 (91)"];
+  15 -- 5 [label="nodo_5 (1)"];
+  0 -- 12 [label="nodo_12 (28)"];
+  0 -- 21 [label="nodo_21 (32)"];
+  2 -- 10 [label="nodo_10 (21)"];
+  12 -- 20 [label="nodo_20 (21)"];
+  9 -- 14 [label="nodo_14 (31)"];
+  23 -- 15 [label="nodo_15 (1)"];
+  9 -- 29 [label="nodo_29 (42)"];
+  7 -- 23 [label="nodo_23 (13)"];
+  13 -- 11 [label="nodo_11 (1)"];
+  5 -- 24 [label="nodo_24 (1)"];
+  20 -- 26 [label="nodo_26 (41)"];
+  18 -- 28 [label="nodo_28 (12)"];
+  14 -- 13 [label="nodo_13 (1)"];
+  8 -- 16 [label="nodo_16 (93)"];
+  14 -- 22 [label="nodo_22 (20)"];
+}
